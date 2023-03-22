@@ -77,6 +77,5 @@ The application has the following dependencies:
 
 Slim PHP micro-framework (https://www.slimframework.com/)
 SQLite database
-Vue.js (https://vuejs.org/)
 Conclusion:
-My-Chat-App is a simple yet powerful web-based chat application built using the Slim PHP micro-framework, SQLite database, and Vue.js. The application provides a RESTful API for managing user interactions and is easy to install and configure.
+My-Chat-App is a simple yet powerful web-based chat application built using the Slim PHP micro-framework, SQLite database, 
